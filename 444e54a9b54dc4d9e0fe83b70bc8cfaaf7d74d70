@@ -1,0 +1,1 @@
+{"jobID":"a1263745-6278-657d-cd69-4b545c806d25","spec":{"type":"policy","cause":{"Message":"","User":"jglade \u003cjglade@gmail.com\u003e"},"spec":{"sock-shop:deployment/front-end":{"add":{"automated":"true"},"remove":null}}},"result":null}
