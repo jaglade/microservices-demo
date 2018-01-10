@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: front-end
-        image: quay.io/jaglade/front-end:master-56673065
+        image: quay.io/jaglade/front-end:master-1b225fb8
         resources:
           limits:
             cpu: 300m
