@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: front-end
-        image: weaveworksdemos/front-end:master-bdc6f3ff
+        image: quay.io/jaglade/front-end:master-56673065
         resources:
           limits:
             cpu: 300m
