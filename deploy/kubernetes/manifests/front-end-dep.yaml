@@ -2,6 +2,8 @@
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
+  annotations:
+    flux.weave.works/automated: "true"
   name: front-end
   namespace: sock-shop
 spec:
@@ -13,7 +15,7 @@ spec:
     spec:
       containers:
       - name: front-end
-        image: weaveworksdemos/front-end:0.3.12
+        image: quay.io/jaglade/front-end:master-d1f9a5f5
         resources:
           limits:
             cpu: 300m
