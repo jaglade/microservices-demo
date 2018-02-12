@@ -1,0 +1,520 @@
+# Changelog
+
+## flux-bold-rain-29 (10/01/2018)
+- [backing out test changes](https://api.github.com/repos/jaglade/microservices-demo/git/commits/932359676f62e278978c6f8c4e8011cb09b78aa9) - @jaglade
+- [test](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b78f67b84a11efd2d636d2978b6d2d513bee530b) - @jaglade
+- [Release quay.io/jaglade/front-end:master-d1f9a5f5 to automated](https://api.github.com/repos/jaglade/microservices-demo/git/commits/248d5bace708af83270ce7c2b4d9293962d02564) - @Weave Flux
+- [Changing it back](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7193e69a081f9241c7c37d40a6aba58edd8e3314) - @jaglade
+- [Testing change in replicas](https://api.github.com/repos/jaglade/microservices-demo/git/commits/eba0fc238c91d3da70119283dc5acebfbbacc467) - @jaglade
+- [Release quay.io/jaglade/front-end:master-1b225fb8 to automated](https://api.github.com/repos/jaglade/microservices-demo/git/commits/79892397fa36da9181518c46626d960aaf94647e) - @Weave Flux
+- [Automated: sock-shop:deployment/front-end](https://api.github.com/repos/jaglade/microservices-demo/git/commits/690bc4a85df08d235ab64579ce08e6a52bb0da42) - @Weave Flux
+- [Using personal quay docker repo](https://api.github.com/repos/jaglade/microservices-demo/git/commits/54d1fd0b9ba743ebaedc0e2c2d6b03a9c16595e2) - @jaglade
+- [Release weaveworksdemos/front-end:master-bdc6f3ff to sock-shop:deployment/front-end](https://api.github.com/repos/jaglade/microservices-demo/git/commits/67512fef39dacac3723166cc35bf001d11a47d41) - @Weave Flux
+- [Fix broken links (#757)](https://api.github.com/repos/jaglade/microservices-demo/git/commits/592bda17db9e51c625a6fedb8494f9e0c1d12173) - @Etienne
+- [fixes to java apps](https://api.github.com/repos/jaglade/microservices-demo/git/commits/daeaabd63beffcfc0f84e385e5ceabc0c6322008) - @Pid
+- [[WIP] Manually set versions of things in docker-compose (#756)](https://api.github.com/repos/jaglade/microservices-demo/git/commits/d6dcde6dca7ba27ac7344b10a13c78998cb2ed9d) - @Pid
+- [Fix some excessive looking resource asks and one erroneous entry (#754)](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b0221426ed28046ed4502eb977549521bed31af8) - @Pid
+- [adjust request to validate ci](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f366007a2110013ddd29dc92afc8d30ada06de10) - @Ian Crosby
+- [Merge pull request #750 from microservices-demo/fix_749_loadtest_k8s_version](https://api.github.com/repos/jaglade/microservices-demo/git/commits/aca8981cbda07e00a76b3c940e9d78ae1f7af28c) - @Vishal Lal
+- [Set version 0.1.1 for load-test](https://api.github.com/repos/jaglade/microservices-demo/git/commits/cd12314b4e27511ff74d07d0422383e5511ccd65) - @pidster
+- [Merge pull request #736 from microservices-demo/features/grafanalib](https://api.github.com/repos/jaglade/microservices-demo/git/commits/425ad1ae98bd265421a7fe32ec04b0375d9f41a9) - @Vishal Lal
+- [Merge branch 'master' into features/grafanalib](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e0ce56c0d40349274bf217375aa43000e04520e3) - @Vishal Lal
+- [Merge pull request #743 from microservices-demo/add-rbac-to-heapster](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a8715edc43034b85f56930b14d5fec8fb8076bd3) - @Vishal Lal
+- [Merge branch 'master' into add-rbac-to-heapster](https://api.github.com/repos/jaglade/microservices-demo/git/commits/37ca5fcffeef9c2c960aadf4c1ffd1a447d908b0) - @Vishal Lal
+- [Merge pull request #744 from microservices-demo/add-rabc-to-prometheus](https://api.github.com/repos/jaglade/microservices-demo/git/commits/1ec0610a67cf3c6260016e779d942de25e3f350a) - @Vishal Lal
+- [Merge branch 'master' into add-rabc-to-prometheus](https://api.github.com/repos/jaglade/microservices-demo/git/commits/1ceb98dd2ebf7648259fd1e6cb481b02841e8464) - @Vishal Lal
+- [Merge pull request #745 from microservices-demo/add-rbac-to-fluentd](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7229240b2cdc796f3ae12d435b38c2e0b732f6a2) - @Vishal Lal
+- [Merge branch 'master' into add-rbac-to-fluentd](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7ce179aa3b5f3657deb164c8d8fbcc48ae805358) - @Vishal Lal
+- [Update documentation to latest (#748)](https://api.github.com/repos/jaglade/microservices-demo/git/commits/21bf7890623f15c8646315d0b19b74ced8ce548a) - @Etienne
+- [Add RBAC to FluentD](https://api.github.com/repos/jaglade/microservices-demo/git/commits/758422a6fa0d73bb5ed91b732b49b7df2f87fca4) - @Etienne Tremel
+- [Add RBAC to Prometheus](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b71afc441116b68ddaf9c1c74f0e3edc9924c618) - @Etienne Tremel
+- [Add RBAC to Heapster and upgrade to 1.4.0](https://api.github.com/repos/jaglade/microservices-demo/git/commits/39e790adbe28d435c1ddee6c01364185b674bd69) - @Etienne Tremel
+- [Update README file](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3e52c696ff1b7168a29e84961a8efb971de6f624) - @Carlos León
+- [Merge pull request #740 from darthzen/fix-autoscaling-kubernetes1.7](https://api.github.com/repos/jaglade/microservices-demo/git/commits/05e4750eefd8de72c9f9da570edea423406e6f84) - @Etienne
+- [Fixed autoscaling demo work correctly in the Kubernetes 1.7 API](https://api.github.com/repos/jaglade/microservices-demo/git/commits/31d14d9bd42e83cdb8500cfcfc7a9ee9f8af3476) - @Rick Ashford
+- [Merge pull request #725 from microservices-demo/fixes/k8s-frontend](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c0b9aa6f462ddfb776fa57a3274c12d0c051d45d) - @Vishal Lal
+- [Merge branch 'master' into fixes/k8s-frontend](https://api.github.com/repos/jaglade/microservices-demo/git/commits/22be188da649dac049944914a10e016779629ee9) - @Vishal Lal
+- [Update graphs and README file](https://api.github.com/repos/jaglade/microservices-demo/git/commits/812aa3d3cda6413014dd424fe9297f018419ad97) - @Carlos León
+- [Generate the shop resources dashboard with grafanalib](https://api.github.com/repos/jaglade/microservices-demo/git/commits/bc33a7081836eef7eb4219dd76e698fd163bbe1c) - @Carlos León
+- [Generate the shop performance dashboard with grafanalib](https://api.github.com/repos/jaglade/microservices-demo/git/commits/8045d07c8d5f715c1c8bb590e1d1a61a3f39a4cb) - @Carlos León
+- [Generate k8s stats dashboard with grafanalib](https://api.github.com/repos/jaglade/microservices-demo/git/commits/acdf07033ad172253113edb4e6a3a6b3e0a30dd5) - @Carlos León
+- [Merge pull request #719 from microservices-demo/features/grafana](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f2a40bab0d95db76c95239d6209718805cb1629f) - @Vishal Lal
+- [Merge branch 'master' of github.com:microservices-demo/microservices-demo into features/grafana](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a0d56aad9dd91f35a4efeb9ff88a5de5d8e21f29) - @Jason Smith
+- [changed import flag back for consistency](https://api.github.com/repos/jaglade/microservices-demo/git/commits/d1b35169620a29f0802de6b49ba28057b21b88e6) - @Jason Smith
+- [fixed compose version to correctly import files](https://api.github.com/repos/jaglade/microservices-demo/git/commits/fe0d6ef0d6cbb0f5d11a176f061506b756ab8b83) - @Jason Smith
+- [renamed cart-db (#730)](https://api.github.com/repos/jaglade/microservices-demo/git/commits/79e89c1340300be5732f3823ef001aedde69e025) - @Jason Smith
+- [Merge branch 'master' of github.com:microservices-demo/microservices-demo into features/grafana](https://api.github.com/repos/jaglade/microservices-demo/git/commits/1f7b704c6cc875e8937a96fa5637932a0b4debca) - @Jason Richard Smith
+- [Generate Prometheus stats dashboard with grafanalib](https://api.github.com/repos/jaglade/microservices-demo/git/commits/cf2fa6fa3d70ac2d8cce46a29671da6ab5f371e4) - @Carlos León
+- [Fix Grafana dashboards for Kubernetes deployment](https://api.github.com/repos/jaglade/microservices-demo/git/commits/816e58dd0732d71fe5703bdede9acc112aa590c6) - @Carlos León
+- [Fix grafana url in import job](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c53a88f46807b403657d2a480106cc54230d35f6) - @Carlos León
+- [Generate Sock Shop Grafana dashboard with grafanalib](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f941a813b2cc8ec1dafc99cfeca6d30622165abc) - @Carlos León
+- [Bootstrap container with grafanalib](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e5dc16468b9d8b067942a2e7111302b1d42101bb) - @Carlos León
+- [Zipkin as option in Kubernetes (#727)](https://api.github.com/repos/jaglade/microservices-demo/git/commits/90908966b8878a7cb3e39c5e22bd889b206659b9) - @Jason Smith
+- [add ingress for front end](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c1d58caa7af90505e312113e3ef5cb49c8f30ab8) - @David Tesar
+- [Optional zipkin](https://api.github.com/repos/jaglade/microservices-demo/git/commits/d0f8f70642d785e2c7875fe133ff0d8993ffc4ec) - @Vishal Lal
+- [specify number of replicas for loadtest](https://api.github.com/repos/jaglade/microservices-demo/git/commits/ca0875eb69eb09c001c6277c73ecb62a87890bd1) - @Adam Sandor
+- [enable/disable loadtest](https://api.github.com/repos/jaglade/microservices-demo/git/commits/ff9db3f97e478d1361e3f03b76f2a4b8b52771fe) - @Adam Sandor
+- [let helm handle namespaces](https://api.github.com/repos/jaglade/microservices-demo/git/commits/6c1771c7cf16fcf3cb9b4fe2364a12b6ca1bf72d) - @Adam Sandor
+- [add frontend replica count parameter to helm chart](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b02c1f8003c9236ed06fea4eeb27c9f8cbbde343) - @Adam Sandor
+- [Rename dir](https://api.github.com/repos/jaglade/microservices-demo/git/commits/9e405ce3ec060f4b3b7f92d212295333d28a97ae) - @Vishal Lal
+- [Helm chart](https://api.github.com/repos/jaglade/microservices-demo/git/commits/fadc98a242db3a7d21b328c80b0d1e4231e65016) - @Vishal Lal
+- [Updated urls to take k8s version into account](https://api.github.com/repos/jaglade/microservices-demo/git/commits/55fddbaf24b17ddf76fc3b64a598585ec32ca2da) - @Vishal Lal
+- [Zipkin as option in Kubernetes (#727)](https://api.github.com/repos/jaglade/microservices-demo/git/commits/15029c9adf11d0952ffdc78c568346950172b12c) - @Jason Smith
+- [Merge pull request #707 from microservices-demo/update-staging-weave-urls](https://api.github.com/repos/jaglade/microservices-demo/git/commits/925b88970cdf9612e5f3b2e504dfaeaba5ca4c65) - @Vishal Lal
+- [Merge branch 'master' into update-staging-weave-urls](https://api.github.com/repos/jaglade/microservices-demo/git/commits/129b13b249667fe6946b0077f4e38d0a160d4679) - @Vishal Lal
+- [Merge pull request #712 from microservices-demo/helmify](https://api.github.com/repos/jaglade/microservices-demo/git/commits/81491f06140e6d3700cb51a941c792860b6eaa65) - @Vishal Lal
+- [Merge branch 'master' into update-staging-weave-urls](https://api.github.com/repos/jaglade/microservices-demo/git/commits/9e7eed03bb9a86d0ed6bf434bdb0e84a0f6d9348) - @Vishal Lal
+- [Merge branch 'master' into helmify](https://api.github.com/repos/jaglade/microservices-demo/git/commits/ffef8e789ac7e5b04aef1e0abe233705aa4f9bca) - @Vishal Lal
+- [Ensure Grafana service is accessible from the outside world](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3cc7212f9ee87e436c9ce41c332a0dd75c951262) - @Carlos León
+- [Convert FrontEnd service to LoadBalancer](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3a01f3354666199657223f367519f8ff48065295) - @Carlos León
+- [Merge branch 'master' into features/grafana](https://api.github.com/repos/jaglade/microservices-demo/git/commits/04291ef794e048d24e4d596d23d21f1719c809fe) - @Carlos León
+- [Merge pull request #716 from microservices-demo/fixes/alert-manager](https://api.github.com/repos/jaglade/microservices-demo/git/commits/ad3098b7838ded2f222dfb459c6ff2a94dfaf506) - @Carlos León
+- [Update docs submodule](https://api.github.com/repos/jaglade/microservices-demo/git/commits/876a192dc5cfbedc071057b47826c6ed375d7c12) - @Carlos León
+- [REDify Grafana graphs in Kubernetes deployment](https://api.github.com/repos/jaglade/microservices-demo/git/commits/22c99fd569a013522224641b236bc645d0010a5d) - @Carlos León
+- [Setup graphs with Grafana in Docker Compose deployment](https://api.github.com/repos/jaglade/microservices-demo/git/commits/0897b4da8e49b3b5072ad9bff77a10f2ab979e3e) - @Carlos León
+- [Link Grafana with Prometheus service](https://api.github.com/repos/jaglade/microservices-demo/git/commits/883d4c4944155c15d0ec799baf0b90e2283db20d) - @Carlos León
+- [Merge branch 'master' into fixes/alert-manager](https://api.github.com/repos/jaglade/microservices-demo/git/commits/6716cb0d900b1281c7e1c72021819cceefb5da79) - @Carlos León
+- [Merge branch 'master' into helmify](https://api.github.com/repos/jaglade/microservices-demo/git/commits/2fb0d8100ede19223d46fc03e88c80abac6217cb) - @Pid
+- [Update docs](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c0aff60ef638e7aa11b9969df861834435d12209) - @pidster
+- [Fix alert manager config in Docker Compose deployment](https://api.github.com/repos/jaglade/microservices-demo/git/commits/65a075c2d5548f455f25a0ebb2db023572ae9043) - @Carlos León
+- [Merge pull request #710 from adam-sandor/windows-cluster](https://api.github.com/repos/jaglade/microservices-demo/git/commits/96cfda5c5981dbb5ac013d4ceb89e3f566243cb8) - @Vishal Lal
+- [Merge branch 'master' into windows-cluster](https://api.github.com/repos/jaglade/microservices-demo/git/commits/315c8f7c50e68d67d564d82b54720cd3c89a8208) - @Vishal Lal
+- [Merge pull request #714 from dtzar/helmify](https://api.github.com/repos/jaglade/microservices-demo/git/commits/68e639ad3f5eb2fbed329c2dffe24899004558a9) - @Vishal Lal
+- [add ingress for front end](https://api.github.com/repos/jaglade/microservices-demo/git/commits/9a3fadd5a6bf4a4caf10a6411dca011ebb6839f8) - @David Tesar
+- [Optional zipkin](https://api.github.com/repos/jaglade/microservices-demo/git/commits/463242584400cd9171d7507e6cf1d8cb718f11cd) - @Vishal Lal
+- [Merge pull request #713 from adam-sandor/helmify](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7bf9c37eebb8f0c00a71e6d8caa46200ba1ac2ac) - @Vishal Lal
+- [specify number of replicas for loadtest](https://api.github.com/repos/jaglade/microservices-demo/git/commits/62e4eac88d9a6439c7995822e65b82b6a93a4406) - @Adam Sandor
+- [enable/disable loadtest](https://api.github.com/repos/jaglade/microservices-demo/git/commits/87f4bef20881d0dd5913d4f25eba2624ca86b475) - @Adam Sandor
+- [let helm handle namespaces](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b8b880547bc8f0b2bb9e662e71694a7022ece5e9) - @Adam Sandor
+- [add frontend replica count parameter to helm chart](https://api.github.com/repos/jaglade/microservices-demo/git/commits/adfea738408c0643d9020b75bab8a40f029141c3) - @Adam Sandor
+- [Rename dir](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e2693f0b35a1d5c9604ae609dc3a22d117fa6a3f) - @Vishal Lal
+- [Helm chart](https://api.github.com/repos/jaglade/microservices-demo/git/commits/890caf1167f6946b7a302a7d335fc1b66689438e) - @Vishal Lal
+- [Merge pull request #711 from adam-sandor/patch-1](https://api.github.com/repos/jaglade/microservices-demo/git/commits/0c9355c1fcf7eb62c4e24bf19db8c1a1eb54529e) - @Vishal Lal
+- [Always display latest Architecture diagram](https://api.github.com/repos/jaglade/microservices-demo/git/commits/06899080eecd74bc5ec12209befc8c379ee30309) - @Ádám Sándor
+- [add nodeselectors specifying linux as host os for running in hybrid linux-windows cluster](https://api.github.com/repos/jaglade/microservices-demo/git/commits/9fc41a293ad86cdfaf46abf991cd24b04cf7c238) - @Adam Sandor
+- [add nodeselectors specifying linux as host os for running in hybrid linux-windows cluster](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c0b02cc165be86ea4869826ff9dc00b5bb97bc51) - @Adam Sandor
+- [Merge branch 'master' into update-staging-weave-urls](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3a42e7681c3dc08dba4ea4c2cae9dba1d4a9c343) - @Vishal Lal
+- [Merge pull request #708 from microservices-demo/rm-zipkin-compose](https://api.github.com/repos/jaglade/microservices-demo/git/commits/d515a4873a1abadf9e8f9f9f5670db5e6e0f1587) - @Jason Smith
+- [removed zipkin from std compose](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3f21a18793693cf1581d949293c896ee3566c4dc) - @Jason Smith
+- [changes to slim down java usage (#705)](https://api.github.com/repos/jaglade/microservices-demo/git/commits/047bfd25feb3f8a9ad6b657109a62df4ffe3cff8) - @Jason Smith
+- [Merge branch 'master' into update-staging-weave-urls](https://api.github.com/repos/jaglade/microservices-demo/git/commits/aae1b0d3fd487674eff1c86471c6822cdabe7ff6) - @Vishal Lal
+- [Updated urls to take k8s version into account](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3ed133436e7787073d59fe519782eb2992bf8c3d) - @Vishal Lal
+- [correct prometheus static config for a couple services (#704)](https://api.github.com/repos/jaglade/microservices-demo/git/commits/841c01d899bc90a696407f3102335fb486ac9095) - @Jeremy Huiskamp
+
+---
+
+## 0.0.12 (02/08/2016)
+- [Merge pull request #209 from weaveworks/load-test-fix](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a0aafea82a478f98d61d71bd5c66cd379bf3d048) - @Phil Winder
+- [Merge pull request #210 from weaveworks/docs/docker-machine-rm](https://api.github.com/repos/jaglade/microservices-demo/git/commits/ffb18d60db9e0dffb55497d19a6fe4c1e3148ca9) - @Phil Winder
+- [Remove potentially dangerous command.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/1a69f2b6f9b2bc54c9483abefb8ffba6cc19e9d8) - @Phil Winder
+- [load test fixes](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e504e39100d0594dcd26d07bdff1c316d67bc193) - @Ian Crosby
+- [Merge pull request #178 from weaveworks/features/nomad](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3ce71b494ed38288b400c6a8fbc7420a629e6656) - @Carlos León
+- [Add deployment support for Nomad](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e63640b8da0a62dd11fdda99cf2fe396372aac71) - @Carlos León
+- [Merge pull request #202 from weaveworks/augment-load-test](https://api.github.com/repos/jaglade/microservices-demo/git/commits/9a1db3be7b8cb5e7a57a872e0abaca425305957f) - @idcrosby
+- [Merge pull request #195 from weaveworks/readme-update](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e4f94adff902ffdf2a15c0aeecc3cec42bb03449) - @Pid
+- [Fix build. Remove references to the word unit.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/0a4575b759eefd8fa385b617180804730d7086c7) - @Phil Winder
+- [Move wireup to local class to prevent circular dependencies. Remove old duplicate test. Rename tests for better regex. E.g. `go test -test.v -test.run=".*Component.*"`](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e6cdd748dab36a14267f88af98da5110f9aa1a58) - @Phil Winder
+- [Add component test. Move unit test. Refactor main to create handler in testable method.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/58cd8a116880c89c5e68f7a8554addd82c3dde26) - @Phil Winder
+- [Merge pull request #204 from weaveworks/docker/workdir](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a528af2f0a878f501b1ad1b3ab5f968096ad6c70) - @Phil Winder
+- [Merge pull request #194 from weaveworks/deploy/mesos-cni-fix](https://api.github.com/repos/jaglade/microservices-demo/git/commits/32b64cb123a3bdbaf92f805c2a9ecc3ffc2f0bcd) - @Phil Winder
+- [Add more warnings to readme.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/173505530193852a0d06bc3dddf87d5943fc9ed8) - @Phil Winder
+- [Specific working version tag. A couple of bugs. Update readme. Make go containers base off busybox. Fix WORKDIR.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/08d24b2b3d0b2707908d98c40fac2d237328d600) - @Phil Winder
+- [Set default WORKDIR in go dockerfiles](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a1ab4f4c8278b6835ad82e71dc31758a0baca7ff) - @Phil Winder
+- [Merge pull request #193 from weaveworks/testing/python](https://api.github.com/repos/jaglade/microservices-demo/git/commits/64d9e8b5ab2353fb2e9e74684a71a94c2937f2fa) - @Phil Winder
+- [adding test](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b3ec9891acb2e7bc03b1905e91e575076aa7f2fd) - @Ian Crosby
+- [clean up](https://api.github.com/repos/jaglade/microservices-demo/git/commits/19d06d20d29a7cb4a39c4a5fe7a478da7dc96346) - @Ian Crosby
+- [Add application test for catalogue. End-to-end, spins up front end and catalogue, then checks that we can get images via the front end.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/4cbdca07101043a422825bf9de8e64268b77a491) - @Phil Winder
+- [Cleaning up load tests doc and files](https://api.github.com/repos/jaglade/microservices-demo/git/commits/d570170111dfa2f91634e0d9ac332966ffc7183c) - @Ian Crosby
+- [add docker only](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b3d4f7a20296252cda7103c1a2922c9f20e5f1e0) - @idcrosby
+- [Merge pull request #179 from weaveworks/enhancement/apib](https://api.github.com/repos/jaglade/microservices-demo/git/commits/6fdcae1e026c83a41e8e9612c4290c54e7b9d627) - @Aleksandr
+- [Add catalogue test to check that all images exist.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7f4dd412725ad87e8b10931c5969fb89c0b93f10) - @Phil Winder
+- [Add a script to generate server stubs](https://api.github.com/repos/jaglade/microservices-demo/git/commits/96f1539853e14609adffa19273ec6896ea09fdee) - @Aleksandr Guljajev
+- [Merge pull request #184 from weaveworks/docs/contributing](https://api.github.com/repos/jaglade/microservices-demo/git/commits/06747454963dad1542208fe284f35247c634063d) - @Phil Winder
+- [Merge pull request #186 from weaveworks/docs/design](https://api.github.com/repos/jaglade/microservices-demo/git/commits/606f37f03218fdeacc98b1813940c2a187e41548) - @Phil Winder
+- [Move contributing to /.github/](https://api.github.com/repos/jaglade/microservices-demo/git/commits/63964bbd1533dca44feffb37e0a3f45dd7ceacbb) - @Phil Winder
+- [Ported all tests to python.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a303d68ba41401abc70c1590472063777f1c33fc) - @Phil Winder
+- [Add simple catalogue test.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b569a4e097592b8960d12f1fa59ec10f0c533b07) - @Phil Winder
+- [Adding openapi specs](https://api.github.com/repos/jaglade/microservices-demo/git/commits/8d98ffc04c172a5fc2ab2628ee250068832c72fa) - @Aleksandr Guljajev
+- [Merge pull request #188 from weaveworks/testing/unit/java](https://api.github.com/repos/jaglade/microservices-demo/git/commits/2224f9bf6d3c709482d9b7718577b66ddd7a6ea8) - @Phil Winder
+- [Fix java unit tests due to repo move.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/aaa8c7071efec2b70af41a4f84f811dd9128f4f7) - @Phil Winder
+- [Added design notes. May need further work.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/83c0c0f86f81255b6abb98536632b6ca6c475ca0) - @Phil Winder
+- [Add some description for ECS CFN, and replace refs to weaveDemo](https://api.github.com/repos/jaglade/microservices-demo/git/commits/1ab1d98e4276275692f6d0625ea819044f4c2f24) - @Ilya Dmitrichenko
+- [Add contribution information to main readme.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/312551f0774087bc2b2f336dc0e9a3937500e029) - @Phil Winder
+- [Initial contribution guidelines.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/4393fcdb0e3b1d997f6cc0d2f6b96031925d964b) - @Phil Winder
+
+---
+
+## 0.0.11 (22/07/2016)
+- [Merge pull request #176 from weaveworks/remove_unused_root_scripts](https://api.github.com/repos/jaglade/microservices-demo/git/commits/557d1718af408fbe0f4857ff5bc09897c4eb1fbd) - @Pid
+
+---
+
+## 0.0.10-broken (22/07/2016)
+- [Merge pull request #176 from weaveworks/remove_unused_root_scripts](https://api.github.com/repos/jaglade/microservices-demo/git/commits/557d1718af408fbe0f4857ff5bc09897c4eb1fbd) - @Pid
+- [Remove all unused scripts](https://api.github.com/repos/jaglade/microservices-demo/git/commits/9d425248908d4dc27b71f3dd0ee559080db0e3c9) - @pidster
+- [Merge pull request #172 from weaveworks/testing/skeleton](https://api.github.com/repos/jaglade/microservices-demo/git/commits/30d38e8f1a56bb2cf9094a7032b7b4e7b027bcac) - @Pid
+- [fix badge](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3e2009cb55545c5d0c12245c53d87a46268ab312) - @pidster
+- [Merge pull request #175 from weaveworks/cleanup_unused_dirs](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7d5b0b34577a609e9248134bc9a62172d48d7e81) - @Pid
+- [add stub](https://api.github.com/repos/jaglade/microservices-demo/git/commits/59cf6b8b95aac0d41c545497f5de35a537b3e131) - @pidster
+- [add license](https://api.github.com/repos/jaglade/microservices-demo/git/commits/08b4099eb5d960c8a8ae94cab90a292280ca804d) - @pidster
+- [Clean up unused stuff per #171](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e06e55bc19010fd1545a915c17c6992dcf0576a9) - @pidster
+- [merge](https://api.github.com/repos/jaglade/microservices-demo/git/commits/aef4ae1920ff5d3e4d13001ffca526642d4b4d96) - @pidster
+- [Merge pull request #174 from weaveworks/edge-router-temp-fix](https://api.github.com/repos/jaglade/microservices-demo/git/commits/16240278c32d7c17716dbab4d7bb51690e60c944) - @Pid
+- [Reverting nginx config](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f41e398bee6123da38fbcb030f49d64d06d7de8d) - @Ian Crosby
+- [Merge pull request #155 from weaveworks/remove-examples-dir](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a7200b76d88659a8b808d1c3867c76d1224f0717) - @Pid
+- [Testing skeleton. Added scripts to run java and go unit tests in docker containers.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/66a577685020fb465939e97ef14a9772169b38ab) - @Phil Winder
+
+---
+
+## 0.0.10 (22/07/2016)
+- [Merge pull request #170 from weaveworks/case-bug-fix](https://api.github.com/repos/jaglade/microservices-demo/git/commits/0d6c6657e223d229c95c04e8a2c5f1d3191f5d77) - @Pid
+- [Merge pull request #158 from weaveworks/optimise-builds](https://api.github.com/repos/jaglade/microservices-demo/git/commits/81d4963cbedf9aacabfb285ef6660b358ee6793c) - @Pid
+- [update travis for go builds](https://api.github.com/repos/jaglade/microservices-demo/git/commits/1549488236e866035f8a79bf954579a674b02ca2) - @Ian Crosby
+- [Merge pull request #156 from weaveworks/docs/testing](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3a35efebe2384b8d29aa0004d10d64066f7fe2de) - @Phil Winder
+- [Testing strategy documentation.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c05a4d7f3c2c930cebef6ac4f48bc456fc8a5c73) - @Phil Winder
+- [swap reference for demo](https://api.github.com/repos/jaglade/microservices-demo/git/commits/63f25666e616d813d04c2c5bda209686104fcc06) - @pidster
+- [Delete redundant examples directory](https://api.github.com/repos/jaglade/microservices-demo/git/commits/dfef6d1f7bb8e071ab10b3846a766828f2d7aadd) - @Aleksandr Guljajev
+- [Merge pull request #132 from alex-glv/feature/new-docker-swarm](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7349e2ba163df437066f5c4b7eff2d789c29c905) - @Aleksandr
+- [use alpine node image, and catalogue needs real images](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7d338d46a2eab4b174ecf1036bed972f07f5778b) - @Ian Crosby
+- [Close #133](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c026e2af07bbc244a3c1f11d12be8904f1c2570f) - @Ilya Dmitrichenko
+- [Merge pull request #136 from weaveworks/deploy/minimesos-marathon](https://api.github.com/repos/jaglade/microservices-demo/git/commits/4e77e94bdf7281702fb3df6878317ce77b7054dc) - @Phil Winder
+- [Address review comments. Incorrect if polarity and changed repo branch to master.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7a0045b45ecb27515f0bda95364f8308ea23ab92) - @Phil Winder
+- [Same for other go services](https://api.github.com/repos/jaglade/microservices-demo/git/commits/1fd7fb7fd5588f8089a6d76d7ca9a58aae00e17e) - @Ian Crosby
+- [break out docker builder image and release image](https://api.github.com/repos/jaglade/microservices-demo/git/commits/330e37fba7aaaaae17d0c130f5e428c25aadaa74) - @Ian Crosby
+- [change to loadbalancer](https://api.github.com/repos/jaglade/microservices-demo/git/commits/2879fde9d598e9f3d580bc250ad09180fd36d489) - @Ian Crosby
+- [swarmkit deploy scripts](https://api.github.com/repos/jaglade/microservices-demo/git/commits/bdb3a1a935bd32d7f18835c58aa27c84783c8399) - @Aleksandr Guljajev
+- [Merge remote-tracking branch 'origin/master' into feature/new-docker-swarm](https://api.github.com/repos/jaglade/microservices-demo/git/commits/5a91c18e2fa368c325c6e2fa782c8f1f003461cd) - @Aleksandr Guljajev
+- [Merge pull request #137 from weaveworks/docs/docker-single-only-explanation](https://api.github.com/repos/jaglade/microservices-demo/git/commits/35f32be5921b149f3cac5043b52ecc6c119b665c) - @Phil Winder
+- [Merge pull request #138 from weaveworks/build/docker-push](https://api.github.com/repos/jaglade/microservices-demo/git/commits/995456b2853a4f3b26db9a32faad0214e55e345a) - @Phil Winder
+- [Add while loop around docker push to prevent docker hub 500's.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/35820f7ff28b85b81a824d5029b452ba43c4fce6) - @Phil Winder
+- [WeaveDemo on Minimesos! Local docker-machine or AWS.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e4de878ed59dcd318a39140f4484470be72213da) - @Phil Winder
+- [Added documentation to expose the differences between docker-single and docker-only.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/27531a91a39909361604efdcfb12dd453834b863) - @Phil Winder
+- [Add role for installing weave](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7a0c4ea5bf04fbab6365a90cf29a1ce3018a0e14) - @Carlos León
+- [Disable retry files and host checking in Ansible](https://api.github.com/repos/jaglade/microservices-demo/git/commits/37ae7e8405f6318df41fb9c0fb88b051d0c6ed06) - @Carlos León
+- [Bootstrap Vagrant box with Ansible to run Docker 1.12](https://api.github.com/repos/jaglade/microservices-demo/git/commits/6074c2449c2f394c6b90b2641ee3fa7dcfde8879) - @Carlos León
+- [docs: update broken links in docker-single (#130)](https://api.github.com/repos/jaglade/microservices-demo/git/commits/9fb2d73f6832bdc920e292b90e46267d1bb0cc2d) - @Chris Kühl
+- [fix broken deployment links in README](https://api.github.com/repos/jaglade/microservices-demo/git/commits/8d46a4b4ce60c9fba5fdd47d9249520dfebc13b0) - @Matthias Radestock
+- [rephrase](https://api.github.com/repos/jaglade/microservices-demo/git/commits/0337c7e04d939f7b00953a7fc89548ce250e50a7) - @pidster
+- [forgot to add Marathon](https://api.github.com/repos/jaglade/microservices-demo/git/commits/9351e9fa0e00f4debe9e2c6cab53b1f8d4afd55b) - @pidster
+- [mo small edits](https://api.github.com/repos/jaglade/microservices-demo/git/commits/99754b4a612f0019d4aa4ffccd4232ad52a67b13) - @pidster
+- [edit readme](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e96e04a9bdc67894dacd7f16b6065f154f5b425f) - @pidster
+- [Start rewriting the initial readme](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b75794a92f88abda42355ab394001e112801d1f9) - @pidster
+- [Use container host name instead of IP](https://api.github.com/repos/jaglade/microservices-demo/git/commits/76b8186dba810a731a813381df9d2126c57ebb05) - @pidster
+- [add README](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a3d0219872f24e974fe484925de84e794279fe23) - @pidster
+- [add delay option to launch script](https://api.github.com/repos/jaglade/microservices-demo/git/commits/1b6df3f9d032ae5a5a9b5c2a3dfa3ad7efe2a779) - @pidster
+- [clean up env vars](https://api.github.com/repos/jaglade/microservices-demo/git/commits/85fc4a85e3e6ddb2113f517a62a5e02df7c8e65f) - @pidster
+- [Add user-simulation to compose](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b548002d72d01ccf367bcdd42e072e74154f1107) - @pidster
+- [Merge pull request #125 from weaveworks/idcrosby-patch-1](https://api.github.com/repos/jaglade/microservices-demo/git/commits/fc1b123a687322604d0e71c0810a4f3af3b75042) - @idcrosby
+- [Update wholeWeaveDemo.yaml](https://api.github.com/repos/jaglade/microservices-demo/git/commits/4af8334d818bd42bc6e81751ffd0c0733afc3c4d) - @idcrosby
+- [Merge pull request #123 from weaveworks/deploy/mesos-marathon](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b251058aa199987afd1b071b64310c778e15022a) - @Phil Winder
+- [basic healthcheck script](https://api.github.com/repos/jaglade/microservices-demo/git/commits/1ebe9b4a6223a3c74e7983a339ac741580231a50) - @Ian Crosby
+- [Merge pull request #124 from gavrie/master](https://api.github.com/repos/jaglade/microservices-demo/git/commits/751f95058324a550e34ffe9453c64b966b6f2119) - @idcrosby
+- [Adding health checks for go services](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3d8ccf79ff07c63fb12017fe0ae7639bae494680) - @Ian Crosby
+- [Merge branch 'aws-ecs'](https://api.github.com/repos/jaglade/microservices-demo/git/commits/642d79e925ac40d9019e1438293a4f84b371899d) - @Gavrie Philipson
+- [Update setup and cleanup scripts to deploy demo to ECS](https://api.github.com/repos/jaglade/microservices-demo/git/commits/5ef539390a87581119f51e66c3643b5b99f70e33) - @Gavrie Philipson
+- [Update docs for AWS ECS deployment](https://api.github.com/repos/jaglade/microservices-demo/git/commits/1403823d0a7d88470b84e88f01f3d6a02a656b32) - @Gavrie Philipson
+- [Create task definitions for all demo containers](https://api.github.com/repos/jaglade/microservices-demo/git/commits/bcf75db5cfc6c8042dd5bf98cec795f19259ebef) - @Gavrie Philipson
+- [gitignore: Ignore *.pyc files created by locustio](https://api.github.com/repos/jaglade/microservices-demo/git/commits/fae2beff5eccb06617bbc89d5ea4cc0a7bf7a189) - @Gavrie Philipson
+- [Ignore aws-ecs private key file](https://api.github.com/repos/jaglade/microservices-demo/git/commits/fa5c96958d1012b8ad45f744b2be952bfdfcd208) - @Gavrie Philipson
+- [Add separate task definitions for all containers](https://api.github.com/repos/jaglade/microservices-demo/git/commits/ffca70c91f2fe4291dec3fd1b14ccff17db1fb5c) - @Gavrie Philipson
+- [Split the setup and cleanup scripts into stages](https://api.github.com/repos/jaglade/microservices-demo/git/commits/1ac20c7df3a5a3c30465259cff9e4c88c0dc8ab1) - @Gavrie Philipson
+- [Import files from github.com/weaveworks/guides/aws-ecs](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b0d503fd4656dd4eac46552dd10c0bb5eea496e3) - @Gavrie Philipson
+- [Initial work towards aws-ecs deployment](https://api.github.com/repos/jaglade/microservices-demo/git/commits/348d8f9acd62765eaef7cf8b4daa26689ddb7f0d) - @Gavrie Philipson
+- [Merge pull request #121 from weaveworks/update-load-tests](https://api.github.com/repos/jaglade/microservices-demo/git/commits/87459af2e824c4ebbd8cab10e9081ed1a83aaba9) - @idcrosby
+- [Add marathon json. Add deploy script. Add documentation. Edit default nginx.conf to automatically reload config.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3191ddefff208f2ebd04792a9006a55a2957cf4a) - @Phil Winder
+- [Super simple Docker Compose](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c9ae585ca3203a16dd9d2a653779563828be1cae) - @pidster
+- [update readme](https://api.github.com/repos/jaglade/microservices-demo/git/commits/728c41e295d1481df7072a48b266b2cd0fffa700) - @Ian Crosby
+- [adjusting price and quantity to ensure tests pass](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f09c1fed5ecb5b4ee107b2c12b98210e4689ca92) - @Ian Crosby
+- [Merge pull request #120 from weaveworks/bug/front-end-domain](https://api.github.com/repos/jaglade/microservices-demo/git/commits/426667299b3d4c488f469e5ebce350dfebedbd75) - @Phil Winder
+- [When domain was empty, accidentally added a '.'. Fix.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/83452dc7d036daf6aea09049810c35f0152297e9) - @Phil Winder
+- [Merge pull request #117 from gavrie/master](https://api.github.com/repos/jaglade/microservices-demo/git/commits/187ae9d6ac74d5c8d3a20cc511c838ab0428084e) - @Phil Winder
+- [Merge pull request #115 from weaveworks/orders/payment-info](https://api.github.com/repos/jaglade/microservices-demo/git/commits/dc4fb43a944fcec28474ee45a3ab1a2ab0209cc0) - @Phil Winder
+- [add Swarm readme](https://api.github.com/repos/jaglade/microservices-demo/git/commits/834e79e1b78df8790c15ecb20280d1de07d5abb4) - @pidster
+- [Add links to readme](https://api.github.com/repos/jaglade/microservices-demo/git/commits/2d75b73c6bc3e411dda5a0e7d6cabdfcde644e23) - @pidster
+- [Minor tweaks](https://api.github.com/repos/jaglade/microservices-demo/git/commits/4ae6dd684cc679b6ec23ff374af0533fb5992f16) - @pidster
+- [Minor tweaks](https://api.github.com/repos/jaglade/microservices-demo/git/commits/73b67c85f2c232708a7f144f5fe0824bfff32b4c) - @pidster
+- [Improve single host Docker README](https://api.github.com/repos/jaglade/microservices-demo/git/commits/59728dd038c2b4a831540e58069c5d718a4a82d9) - @pidster
+- [Improve usability of locust thing](https://api.github.com/repos/jaglade/microservices-demo/git/commits/66b2ea0fa873f9b942e1a13d06deaf16e258d377) - @pidster
+- [Fix review issues.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/6805fe371f6e65bb306bcc9ac670f04b7b8ff62b) - @Phil Winder
+- [Update docs to install Weave Net first](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f901f9b7e44b8bfe30e1ea220bab16e7012a3ff6) - @Gavrie Philipson
+- [Merge pull request #116 from gavrie/master](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e0b6646fa6d29d6c71e61f12466c55e8fe378c3a) - @idcrosby
+- [Update docs to use correct docker-compose file](https://api.github.com/repos/jaglade/microservices-demo/git/commits/02944aadca3297b99055f81336cca42c470f49f2) - @Gavrie Philipson
+- [Upgrade embedded scripts](https://api.github.com/repos/jaglade/microservices-demo/git/commits/2667454eca44771c3bf9cfd510455c580084eec4) - @pidster
+- [Fix a typo](https://api.github.com/repos/jaglade/microservices-demo/git/commits/8de5824e5dda50a0800786c8c25bc45b72749576) - @Ilya Dmitrichenko
+- [Add more payment info. Decline on large amounts. Parse accept/decline response.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e05fd76dc3a1fe1dd82629bbecb8b5a949de420c) - @Phil Winder
+- [Merge pull request #108 from weaveworks/gokit/payment](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b522174515cc009450efa3fe07dbbdeb0cbc6792) - @Phil Winder
+- [Merge pull request #113 from weaveworks/frontendloginfix](https://api.github.com/repos/jaglade/microservices-demo/git/commits/d5db5e24ea054109a9b6c46234a5417a751366d7) - @idcrosby
+- [add json tags](https://api.github.com/repos/jaglade/microservices-demo/git/commits/490beeb4959562d995fb2944e800c26e25ac0304) - @Ian Crosby
+- [Merge branch 'master' of github.com:weaveworks/weaveDemo](https://api.github.com/repos/jaglade/microservices-demo/git/commits/15506ab22a5aa7c4c1a7a74e55993f81d5e1078a) - @Ian Crosby
+- [fix login handle, and case](https://api.github.com/repos/jaglade/microservices-demo/git/commits/cf7d185155d914f3d44bbe9168f613214944c9c8) - @Ian Crosby
+- [Merge pull request #111 from weaveworks/bug/wrong-domain](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f64d52f7d58064e100da5c605233522e42109dfc) - @Phil Winder
+- [Defaulted to wrong address.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/d4cf7565c7d2b7514cda32948a2c60879a93e34a) - @Phil Winder
+- [Merge pull request #110 from weaveworks/build/swarm-check](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b919fbfa0dcb719d6db000db8e5994382ef848de) - @Phil Winder
+- [Mongo settings should default to no domain.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3acb4378b73ebb1bd700b6903feea7eae0d91539) - @Phil Winder
+- [Only build on swarm if swarm VMs are available.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7c71db0710c37931ac5089b0d611140b67db7aff) - @Phil Winder
+- [Refactored to gokit. Added tests. Addressed review comments.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/6f66b85cd554e2cd845f70585179cd3572fcbd6e) - @Phil Winder
+- [Merge pull request #109 from weaveworks/front-end-clean-up](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b035d132388faf97893fb9d709f313e12b1dfcc4) - @idcrosby
+- [Refactored and added test to test old payment service. Will use this to verify new payment service does it's job.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7cc3aa6e0219329458486afbbf4bd7bce2771ac7) - @Phil Winder
+- [fixed fall through errors in server](https://api.github.com/repos/jaglade/microservices-demo/git/commits/069339f7fd44094e10196675dc80bf8ce8f46797) - @Ian Crosby
+- [check for error before handling response](https://api.github.com/repos/jaglade/microservices-demo/git/commits/aff78b0bd80bdb1f0980dc926bfab44dfb432702) - @Ian Crosby
+- [removing unused files and themes](https://api.github.com/repos/jaglade/microservices-demo/git/commits/5a9a75b7127256478c8874d6f873ec99eca55917) - @Ian Crosby
+- [remove refs to obaju](https://api.github.com/repos/jaglade/microservices-demo/git/commits/917f022c96ef2f48f41821def8ef6c993e15f215) - @Ian Crosby
+- [Merge pull request #103 from weaveworks/go-kit-login](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b9d3e5e27611c1ae16ba51cbecf054f9283f0736) - @idcrosby
+- [Merge branch 'go-kit-login' of github.com:weaveworks/weaveDemo into go-kit-login](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c64c2364c618fc4a4e3784a600aff77981ac21e9) - @Ian Crosby
+- [adding domain as param/dependency](https://api.github.com/repos/jaglade/microservices-demo/git/commits/0cfcd64f7d171fc9bfda566a8ddcf873e669c589) - @Ian Crosby
+- [fixes as per review comments](https://api.github.com/repos/jaglade/microservices-demo/git/commits/51872123706daffdfe4e7d40927ee8ce5dbd5ce2) - @Ian Crosby
+- [Refactor login service with gokit](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e5c2886ea9cad242706386f7afeee8f0aff8bb82) - @Ian Crosby
+- [Merge pull request #105 from weaveworks/kubernetes](https://api.github.com/repos/jaglade/microservices-demo/git/commits/2aba07e28f7b0e1abcc6a0f9e179b9580170470b) - @idcrosby
+- [removing unused scripts](https://api.github.com/repos/jaglade/microservices-demo/git/commits/33fbb5999b82dfeaecfdff99c6ee7b58e8fd1e83) - @Ian Crosby
+
+---
+
+## 0.0.9 (17/06/2016)
+- [Merge pull request #87 from weaveworks/edge-router](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a6519702c5f8b9f9fd47a88ea5bf559a2189abbf) - @Phil Winder
+- [Added edge router.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/62b9a700fbd41c905bd8b30d35f6998a666fc61b) - @Phil Winder
+- [Merge pull request #86 from weaveworks/moarsocks](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f9421ff495fab2750ed2380161ca31fca23674cb) - @idcrosby
+- [moarmoarsocks](https://api.github.com/repos/jaglade/microservices-demo/git/commits/1b702a65aec590e3c25d676f5b60f6e3ae7d8d59) - @Ian Crosby
+- [moarsocks](https://api.github.com/repos/jaglade/microservices-demo/git/commits/ebd38ad467ffdbbe9299bb22669d97ff131b6fce) - @Ian Crosby
+- [Merge pull request #84 from weaveworks/load-test-fix](https://api.github.com/repos/jaglade/microservices-demo/git/commits/4f380a991a15c48241544282350d2e63141a7971) - @idcrosby
+- [load test fixes](https://api.github.com/repos/jaglade/microservices-demo/git/commits/bc04f46c16d1568833dc5f59b79783dee67e346b) - @Ian Crosby
+- [Expand env vars](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7f6de086e42f32a3c6d94fe0c671240c62a5ee2f) - @pidster
+- [Merge pull request #81 from weaveworks/minor-fixes](https://api.github.com/repos/jaglade/microservices-demo/git/commits/d64273e5b3eaa1579402ffd2a23e718a4970260c) - @idcrosby
+- [fix travis ci badge](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a7c6f9720d1b4d9b90862f35a2f7170c0ca6836c) - @Ian Crosby
+- [Fix removal of worker containers](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c1eaeda90471a540f820f2268fd090f3ca046a0d) - @Ian Crosby
+- [fix rugby socks link](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e1631b2308844cfa958998d4ee01e11d253bca9b) - @Ian Crosby
+- [tooks tags to calculate catalog size](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f65d098de9c9859829aeedafbfd3bbeeee8ce265) - @Jason
+- [removing ipam settings, dont need workaround anymore](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f7e55a35aa245abf6abd6c4db088e2c74c1837b9) - @Ian Crosby
+- [Merge branch 'master' of github.com:ContainerSolutions/weaveDemo](https://api.github.com/repos/jaglade/microservices-demo/git/commits/2e04d62ae32a6a08d82e82d24e1b2de5565c5536) - @Ian Crosby
+- [fix error when no card or address](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f81b596636d02c4b4e6c86a7dcedc38acd144d6c) - @Ian Crosby
+- [Merge pull request #76 from gellis01/swarm-aws](https://api.github.com/repos/jaglade/microservices-demo/git/commits/6345b642194553f05723c4b52e75464970595a42) - @idcrosby
+- [fix rabbitmq host, add to build script](https://api.github.com/repos/jaglade/microservices-demo/git/commits/fbd46269ef684e2a1cbf5e525a2436656e378afb) - @Ian Crosby
+- [parameterise cluster creation on aws, tidy up scripts, update readme](https://api.github.com/repos/jaglade/microservices-demo/git/commits/5f00c923f5f0eeee4de50ece6d7614d8f348dd67) - @Grant Ellis
+
+---
+
+## 0.0.8 (15/06/2016)
+- [Merge pull request #75 from ContainerSolutions/worker-container](https://api.github.com/repos/jaglade/microservices-demo/git/commits/d2c943e7aeadb8360fa42a1ff947ff1214d5a86a) - @idcrosby
+- [remove port](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f4b4a8b02fe0c31663e373d73119b7df27587457) - @Ian Crosby
+- [fail on error, and fixes](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b4b99342293e1f8618c375f524ad27ba81819f68) - @Ian Crosby
+- [adding worker container to connect to rabbitmq](https://api.github.com/repos/jaglade/microservices-demo/git/commits/2a76eb5cd636d21bcf31bb5bda639da4af73599e) - @Ian Crosby
+- [scripts are written with bash, so target bash explicitly in case /bin/sh points somewhere else](https://api.github.com/repos/jaglade/microservices-demo/git/commits/78191ca6d44757e93fb513b29797fdcf0f9d8676) - @Grant Ellis
+- [Merge pull request #74 from ContainerSolutions/compose/ports](https://api.github.com/repos/jaglade/microservices-demo/git/commits/cfad8a58746d531bcb27eec1fc52da5618cacb18) - @Phil Winder
+- [Removed all exposed ports.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/53b27e39d621689855726b60c381b264354928cf) - @Phil Winder
+- [Merge pull request #73 from ContainerSolutions/basket/also-like](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e13ac611c8af8da84491e0529954e70ef126436c) - @Phil Winder
+- [Change items in you may also like banner in basket.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b077d48316ed0bb4ae54f9590cd15ab0bd5a5d15) - @Phil Winder
+- [Merge remote-tracking branch 'origin/master' into users/default](https://api.github.com/repos/jaglade/microservices-demo/git/commits/4d1303929bcdf566d0a4d5e444972b5b34d61c0d) - @Phil Winder
+- [More reasonable default users.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/75431397aa6d917d833b41d6d6277302d251f00b) - @Phil Winder
+- [Update orders api.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/619c45573a5797aec71773838e728a83ba175712) - @Phil Winder
+- [Merge pull request #70 from ContainerSolutions/orders/order-page](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b23b2fccf571af82e3240405609f58cde9c071cc) - @Phil Winder
+- [Merge pull request #69 from ContainerSolutions/orders/refactor-api](https://api.github.com/repos/jaglade/microservices-demo/git/commits/8bfca1fbab8d46ce2e791ccc99ae1b8e78457e4f) - @Phil Winder
+- [Update single order page.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e738666fec603b2e4e68bece51c7fec674ccc7c8) - @Phil Winder
+- [Merge branch 'orders/refactor-api' into orders/order-page](https://api.github.com/repos/jaglade/microservices-demo/git/commits/45b92d4072d9952cc6df59327fc32792fd3c7515) - @Phil Winder
+- [Finished altering api.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/81c7794b7d86c6e93ace5cb92eb5dd47a80c80b2) - @Phil Winder
+- [WIP: Added converters to parse data. Correctly stores and submits. Just need to clean.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/1c87e74e86e02ae7a423f61f7a1a1bfa8b5312e1) - @Phil Winder
+- [no need to export](https://api.github.com/repos/jaglade/microservices-demo/git/commits/0843109355521eac8e85c6824ac3747c33adfe2e) - @Ian Crosby
+- [update integration tests](https://api.github.com/repos/jaglade/microservices-demo/git/commits/52b674d9ebfa6111544c9f41ea3615ea1e320af5) - @Ian Crosby
+- [Merge branch 'master' of github.com:ContainerSolutions/weaveDemo](https://api.github.com/repos/jaglade/microservices-demo/git/commits/13b2219253b396a25e317a5ee49c277adf0c61f2) - @Ian Crosby
+- [fix socks json](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a2931017e021260eb6af75b173676e3a8b81c930) - @Ian Crosby
+- [Added order page. Blocked on more order data.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/db9b5fbf3b00c46773f2fb964de22a2f92c6e2d9) - @Phil Winder
+- [Add banner items to catalogue, and add links](https://api.github.com/repos/jaglade/microservices-demo/git/commits/ab4c554bf8fe85342ef5789b1e78cb2e5b188cef) - @Ian Crosby
+- [New logo. Fix dev links to use proxy.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/0b95321d6b5c6449ba8847979aafa7c26f7acedc) - @Phil Winder
+- [Merge pull request #60 from ContainerSolutions/cart/refactor](https://api.github.com/repos/jaglade/microservices-demo/git/commits/cda47fab8faa7bbbb55beb1cfc59ebff913be0b9) - @Phil Winder
+- [Finished cart refactoring. Added all tests. Minor bug with merge call in server code.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/4a8dadf16966ae7ec34c4873ed0000d389626af9) - @Phil Winder
+- [Edit proxy information for new networks.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a2a5f647dfd5ee41999b349d49c2ab20c091853e) - @Phil Winder
+- [Launch new containers on backoffice network](https://api.github.com/repos/jaglade/microservices-demo/git/commits/18b3e5f586f33462b1af806c76b8a9845d705ca9) - @Ian Crosby
+- [fix script](https://api.github.com/repos/jaglade/microservices-demo/git/commits/112c505c4f0bfef5caeee30436d9b1cf02e1320c) - @Ian Crosby
+- [Working unit tests for cart.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/be7e1f15ca6040efdbc0680f9f328963ae3da7e4) - @Phil Winder
+- [Merge branch 'master' of github.com:ContainerSolutions/weaveDemo](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e8d107a96ebeca6636c2f3272442eb45187596e3) - @Ian Crosby
+- [Refactoring cart. Much cleaner. Just need to finish tests.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/86e6dfeac998b0a8ce240983beaecb1a5b24ba80) - @Phil Winder
+- [return to main page on logout](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7de12fd59165be5424c7da8fe59c891c7aa350d6) - @Ian Crosby
+- [Fix missing --name in proxy.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/ac3b1802e84b105bbe86a7507d8e659315ec95bc) - @Phil Winder
+
+---
+
+## 0.0.7 (10/06/2016)
+- [network fix](https://api.github.com/repos/jaglade/microservices-demo/git/commits/764b93ebaf5d0db9ebd01ab8bce907204ce59577) - @Ian Crosby
+- [fixing network setup](https://api.github.com/repos/jaglade/microservices-demo/git/commits/55c995900ba1ce91dbe48399baea14ce8aa208c3) - @Ian Crosby
+- [prevent orders page from showing on unsuccessful purchase attempt](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c34dd6a6be13a3f3d3f2ae81c360c1e7da4dcfaf) - @Ian Crosby
+- [disable purchase button when basket is empty](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b107542f0cde6c5ed4166222077122dedcc01c13) - @Ian Crosby
+- [no shipping if cart empty](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3e9d6ef3ec914ae918de9617af743ba4eec08a20) - @Ian Crosby
+- [cant have negative items in basket](https://api.github.com/repos/jaglade/microservices-demo/git/commits/2b015a0d27c6ad29c711bfeee2ae334de9817d0d) - @Ian Crosby
+- [changing theme color, more weavey?](https://api.github.com/repos/jaglade/microservices-demo/git/commits/9c4295aa0d33e69da08ae71df5c20c10295cef27) - @Ian Crosby
+- [go fmt](https://api.github.com/repos/jaglade/microservices-demo/git/commits/71ee86fcf21526eb06ef22a500e7aaf3bcb1907e) - @Ian Crosby
+- [change favicon](https://api.github.com/repos/jaglade/microservices-demo/git/commits/133a0c0e0e00ee528acba7daf731cbe0d02526c6) - @Ian Crosby
+- [Merge branch 'master' of github.com:ContainerSolutions/weaveDemo](https://api.github.com/repos/jaglade/microservices-demo/git/commits/8f9a524dc28ed45d6adf4efc4140690262ec06f1) - @Ian Crosby
+- [redirect on non logged in order](https://api.github.com/repos/jaglade/microservices-demo/git/commits/cc37cd29b22db433a6d49431940f293c16b7af52) - @Ian Crosby
+
+---
+
+## 0.0.6 (09/06/2016)
+- [add build tag](https://api.github.com/repos/jaglade/microservices-demo/git/commits/ba40ec156c8721a3cedf4d32457865547899cdb2) - @idcrosby
+- [merging sessions](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3a372a8cd79f290872cf188964fbd974ed62c005) - @Ian Crosby
+- [Merge branch 'sessions'](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e4c41a0174c2dd87e11e7adf3a5c0656b23bec15) - @Ian Crosby
+- [alpine is missing go get](https://api.github.com/repos/jaglade/microservices-demo/git/commits/6f397cde72c8590b5c5ba822afe65e6efa397351) - @Ian Crosby
+- [Fix for scope to recognize docker network](https://api.github.com/repos/jaglade/microservices-demo/git/commits/492d658f6667709ca421f1d2dc3982f1e75703f1) - @Ian Crosby
+- [merging..](https://api.github.com/repos/jaglade/microservices-demo/git/commits/478faf6d7df861e42ab79d1fe479b4bdb0cd120b) - @Ian Crosby
+- [Fix carts merging](https://api.github.com/repos/jaglade/microservices-demo/git/commits/2401de8b3a557d3ce55a479c01b88e5947ecad90) - @Ian Crosby
+- [Moved services to final networks.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b8a46b93d27b56cfb2b1de48f8425c8c9be45785) - @Phil Winder
+- [Remove all the footer crap at the bottom. Real links.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e3395a629d0b32dbb1f0b1414a425b1496f5d441) - @Phil Winder
+- [Add login user information and logout button.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/aeada4f116e326e19c911cf44d57f1abdafbdb27) - @Phil Winder
+- [Added proxy instructions for front-end local development, so we don't have to use ip addresses in dev mode any more.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b5ebcc54deec5e36e19ee4398b330024c445a1ec) - @Phil Winder
+- [use alpine go images](https://api.github.com/repos/jaglade/microservices-demo/git/commits/90e4504b1b4b82092c5b07e757beca22bc3bfd5c) - @Ian Crosby
+- [Adding merge functionality to cart](https://api.github.com/repos/jaglade/microservices-demo/git/commits/6083f9950d8ad85268f8e912e9a04478f3bdaf7d) - @Ian Crosby
+- [adding sessions, use session id when no customer logged in](https://api.github.com/repos/jaglade/microservices-demo/git/commits/dfd0e2a5bb2400bdff4443136cae161ffe0a378e) - @Ian Crosby
+- [use alpine go images](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a6762f2a806702ef161ce481f866984ffc0289b7) - @Ian Crosby
+- [Adding merge functionality to cart](https://api.github.com/repos/jaglade/microservices-demo/git/commits/820ccebbd4ad7782d55e77a0db0c6575772694c7) - @Ian Crosby
+- [Merge pull request #46 from ContainerSolutions/refactor/cart-api](https://api.github.com/repos/jaglade/microservices-demo/git/commits/bb6ea21cd60ade04e46b56ef770a9f71a025cbcb) - @Phil Winder
+- [Fix unitPrice. Correct order sum.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/8216f8344bdb10539d8fe6fe185b055be609f923) - @Phil Winder
+- [Fixing GUI bugs after cart refactoring. Bug remains, unitPrice is not added to cart.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/799d53f93d8ddcca3ec6282ce4ab1b349e9e19bc) - @Phil Winder
+- [Refactoring of cart. Moved code out of server.js into service.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/05e5c6cea14f3d0d7f7d88fc7fc7ad95e98801fb) - @Phil Winder
+- [adding sessions, use session id when no customer logged in](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c36fdb1fbecc3bfda3d5af75c262fd2e742090f6) - @Ian Crosby
+- [fix script](https://api.github.com/repos/jaglade/microservices-demo/git/commits/5b4e257731041e7df35b03c60aaefd815237d263) - @Ian Crosby
+- [Merge pull request #45 from ContainerSolutions/load_test_tweak](https://api.github.com/repos/jaglade/microservices-demo/git/commits/8e9dfd1e8e9950d762fe5e74720412f5d588d4b0) - @idcrosby
+- [Set env var defaults and use entrypoint](https://api.github.com/repos/jaglade/microservices-demo/git/commits/18b789f5056766d17ee5aecd16fe49e9d7024074) - @pidster
+
+---
+
+## 0.0.5 (08/06/2016)
+- [Remove shipping container after completion](https://api.github.com/repos/jaglade/microservices-demo/git/commits/d68a569e8d2cc168e31e18b99aa489c82950791d) - @Ian Crosby
+- [update load test docs and script](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7437906b363b9ded8f06809394212164ab9d067c) - @Ian Crosby
+- [Changing html page titles](https://api.github.com/repos/jaglade/microservices-demo/git/commits/5899d1629053eef0026c3a319d5a4f96d34a3332) - @Ian Crosby
+
+---
+
+## 0.0.4 (07/06/2016)
+- [Merge pull request #44 from ContainerSolutions/aws](https://api.github.com/repos/jaglade/microservices-demo/git/commits/cba873c4040b87ec4d35d3a69bf7f77e6fa986bb) - @idcrosby
+- [oops](https://api.github.com/repos/jaglade/microservices-demo/git/commits/4ef5dc00236f50df6c1ef0cd58ebce15b3cf0a0f) - @Ian Crosby
+- [Fixes to and for load tests](https://api.github.com/repos/jaglade/microservices-demo/git/commits/50a8a952891a792c92f46bf31bcfd2d1dc127ba4) - @Ian Crosby
+- [fixing install scripts](https://api.github.com/repos/jaglade/microservices-demo/git/commits/44023404508f04145b1674724f015a365a7369e6) - @Ian Crosby
+- [Install on AWS via scripts. Fix ports](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c1222d08e953d981d0ad6c3753148218aabe0686) - @Ian Crosby
+- [add register to login. more tests](https://api.github.com/repos/jaglade/microservices-demo/git/commits/337ec15b626493aa4d50daa9db44111c92a17345) - @Ian Crosby
+- [Added customer orders page.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/4d9f3bec09a3eac5d71bf8445293f6d0818b83df) - @Phil Winder
+- [Remove load more button.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/84daeb04b2cedaaa66911c5e966e1b058136d2e5) - @Phil Winder
+- [Missed off equals in link](https://api.github.com/repos/jaglade/microservices-demo/git/commits/0d115215fcbabc100cebcc1c2a79a58d32873277) - @Phil Winder
+- [Set swarm and docker restart policies to restart on failure. Add scripts.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/6cb1492780da5ab0c67a4c9a9fcc1ca2ab74470f) - @Phil Winder
+
+---
+
+## 0.0.3 (06/06/2016)
+- [Implemented hot items. Resized main banner.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/5f6c52a85454cc6017bf3c3725a6048f15e4fe91) - @Phil Winder
+- [Some new socks](https://api.github.com/repos/jaglade/microservices-demo/git/commits/2826ddf0a7d0c19eedb516a27d0125266cc6101e) - @Phil Winder
+- [Implemented product details](https://api.github.com/repos/jaglade/microservices-demo/git/commits/4843e8109f01e2ebd657ca8922c2b1c4c3e58db6) - @Phil Winder
+- [Give default socks default secondary images.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/cbcca6bd149052b169c70efae94cc2c77f9747db) - @Phil Winder
+- [Added new images to catalogue. Fixed catalogue json names.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3221fe151cb2f649a66d53758c5a2e304675234f) - @Phil Winder
+- [New catalogue menu.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/4890dd2f9c7751a2bb3cb23010f82bbc4703c4c0) - @Phil Winder
+- [Implemented orders.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/6165257660e6308266b5dc8349aa4c822ef9f6b0) - @Phil Winder
+- [Replaced unimplemented cart buttons with stubs.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/252a85b5fe0d29f9a3004bf318b4ec594c0e975b) - @Phil Winder
+- [Remove old front end](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c197b6988870f301eb86e2c2da6fb505771780dd) - @Phil Winder
+- [Refactoring Server.js.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c08cf97b0e5dd670ae8a3c381337a846451102b9) - @Phil Winder
+- [Added assumption that they cloned the repo.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e7a241027395120db923bccd3fbb6febb38e2b9d) - @Phil Winder
+- [Updated the doc with more install options.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/024f9fbbb9580473ab8cfff676064d6cfb9c43ca) - @Phil Winder
+- [Merge remote-tracking branch 'origin/master'](https://api.github.com/repos/jaglade/microservices-demo/git/commits/0170ace71a503965bbda9065d32e3660ac1ffde4) - @Phil Winder
+- [Some sock images from stuart.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/0e4f7cfb1d86498ede419e3ed2aeb89e3a363f4a) - @Phil Winder
+
+---
+
+## 0.0.2 (03/06/2016)
+- [Explicitly push latest to docker hub on tagged release.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b5206f0a0abc89af4b5db41df17616787e449886) - @Phil Winder
+
+---
+
+## 0.0.1 (03/06/2016)
+- [Merge branch 'master' of github.com:ContainerSolutions/weaveDemo](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e4d0b571bddbb5b583d350ecac1d0939c0c587be) - @Ian Crosby
+- [adding load test docs](https://api.github.com/repos/jaglade/microservices-demo/git/commits/fa3a9eb6e8e9858c1002c9636e51b01fd3c42674) - @Ian Crosby
+- [Merge remote-tracking branch 'origin/master'](https://api.github.com/repos/jaglade/microservices-demo/git/commits/6cd79304a0150064b96847a7e7d3b64aea7db7b5) - @Phil Winder
+- [Login fix. Further image fix. Refactor to make navbar reusable.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b8c274f9d7ebd7e0dbb705378caffb877b03dc54) - @Phil Winder
+- [merging](https://api.github.com/repos/jaglade/microservices-demo/git/commits/cdc7db6a451c8eaac9ee5990050374ff9067d4d1) - @Ian Crosby
+- [Merge branch 'load-test'](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f7ce2490356cf45271e4757eb7b20777d81ed8c3) - @Ian Crosby
+- [updated load test script and dockerfile](https://api.github.com/repos/jaglade/microservices-demo/git/commits/fcb5e03e04fe9512289645e67e89e54cc1665c09) - @Ian Crosby
+- [Merge remote-tracking branch 'origin/master'](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3404076958cdc98dda6060002578b39e5b0dde96) - @Phil Winder
+- [Fix image paths.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7abcfddb852cce19480603b1056d9ff1e1744ab4) - @Phil Winder
+- [Update README.md](https://api.github.com/repos/jaglade/microservices-demo/git/commits/fe2df4f8d7369c7250302dbfd0d4836418641e9e) - @Phil Winder
+- [fixed tests](https://api.github.com/repos/jaglade/microservices-demo/git/commits/2cdc9f8570a34dbfbb648cbfdef0666f0ed7eb46) - @Ian Crosby
+- [merging from master](https://api.github.com/repos/jaglade/microservices-demo/git/commits/560de4f97653246669e457a5de2cbd65ddd1c727) - @Ian Crosby
+- [merge from master](https://api.github.com/repos/jaglade/microservices-demo/git/commits/cc857744bcb8c6428211079c7a2b44e94bdfc4ef) - @Ian Crosby
+- [Working pretty well now apart from images.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/15ddc72c92cf3ab4d9ab967e23626bce3e3d7023) - @Phil Winder
+- [Implemented add to basket, delete from basket.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e16c3c56d082ca62778bf2d60545b779bd9db5ea) - @Phil Winder
+- [adding load testing](https://api.github.com/repos/jaglade/microservices-demo/git/commits/fb18aa314bd6f2673cab88afefd41d71cbe5c61a) - @Ian Crosby
+- [Initial basket. Working server: show cart and add to cart. Needs refactoring.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/9904ff66a02c333488ec1a1ac3457cfb0046760d) - @Phil Winder
+- [Merge remote-tracking branch 'origin/master'](https://api.github.com/repos/jaglade/microservices-demo/git/commits/caaa7b90a37132819facee4fb98d9a0a7edb7eba) - @Phil Winder
+- [Implemented filters. Finished for now. Outstanding bug with size and filters.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/d2579c26fa58870bbe7277131e0745bac22a5987) - @Phil Winder
+- [updating images path](https://api.github.com/repos/jaglade/microservices-demo/git/commits/8a020c204e1788f04bd35b30a0c816de90032fd6) - @Ian Crosby
+- [updating images path](https://api.github.com/repos/jaglade/microservices-demo/git/commits/dfae73469f4129a781f7d9df4db5a64cab4cd6a3) - @Ian Crosby
+- [Merge remote-tracking branch 'origin/master'](https://api.github.com/repos/jaglade/microservices-demo/git/commits/0988005dc296ffe8d2ecaae721aeb75b4c8e60b1) - @Phil Winder
+- [Refactor cart methods. Only need a list and a add to list method. Untested.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/eec3eb93dfab6cafd263a276321993992a7fa9d6) - @Phil Winder
+- [formatting :/](https://api.github.com/repos/jaglade/microservices-demo/git/commits/50442ddb124c78a99e70cb0191347c975a480646) - @Ian Crosby
+- [adding external API docs](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c1547a27840b9bc872d8cded07ef79da20ae7ffe) - @Ian Crosby
+- [Remove debug messages.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c4d96fc1a17470f798bf05a046bdccf0cf04ab6b) - @Phil Winder
+- [Implementing new catalogue. Fixed items, paging, sizing. Next: filters and sorting. Then individual items. Then cart.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/1446697823a7b436429a8a417e9d0d8855bd2662) - @Phil Winder
+- [Make tags return AND. Fix slicing bug when less than the paged amount of results.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f9693d3f9459b907c94eebcf407c80e41c296dc0) - @Phil Winder
+- [Adding images to container](https://api.github.com/repos/jaglade/microservices-demo/git/commits/9f517739380d7ed99b25f75886ea26fd46833071) - @Ian Crosby
+- [server.js refactoring and some changes to ui.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c5f3c3f111a6aa58404babe1cff6faf775ac4939) - @Phil Winder
+- [Merge pull request #30 from ContainerSolutions/images-and-tags](https://api.github.com/repos/jaglade/microservices-demo/git/commits/be46298767c3d2f30410318a0a9290a88a0dac95) - @idcrosby
+- [updated API docs](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f16930e4d458533aebd229af2e44ef915faf6c3f) - @Ian Crosby
+- [adding full image urls, handle tags](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a55510436ac7b71bd45e092ec729c2da8cb55e07) - @Ian Crosby
+- [adding sock](https://api.github.com/repos/jaglade/microservices-demo/git/commits/247c8c7d16fc5df9f0ecd2ecbc3d6a7d1c07f572) - @Ian Crosby
+- [Merge pull request #29 from ContainerSolutions/catalogue-update](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a58b540f2c72b1d2f23dba56a2335049dc3c3d66) - @idcrosby
+- [Better login.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/87be88c28bd07f251b5fc4a3f19b114726fd3733) - @Phil Winder
+- [Adding sample data](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a8c750bf298bdb1ccb7923aa76fc93a880357ba1) - @Ian Crosby
+- [Adding static image handler and size handler](https://api.github.com/repos/jaglade/microservices-demo/git/commits/9e8acb91cf2d8853cb4ca7c1c46f2b2b96014a81) - @Ian Crosby
+- [Fix login service. Correctly queries customer database.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/4243b17fb52574584a5d4a37d950cafdb9c0efb6) - @Phil Winder
+- [added pagination and sorting to catalogue service](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b088eb8fe39aa13bc7eb8bab6b53efa9a00d7f82) - @Ian Crosby
+- [Images.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/86ca696633d52b993259b038fedf447fa744ef15) - @Phil Winder
+- [Merge pull request #28 from ContainerSolutions/ui/new-theme](https://api.github.com/repos/jaglade/microservices-demo/git/commits/41fc3dde4084c4bdd51ba70fdcb365d1307f438c) - @Phil Winder
+- [Merge remote-tracking branch 'origin/master' into ui/new-theme](https://api.github.com/repos/jaglade/microservices-demo/git/commits/374e88404eff2fb628b45d959172af1048ea8113) - @Phil Winder
+- [WIP: New theme.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/af969487b626fc59219acfc9cde21f83d582045a) - @Phil Winder
+- [Merge branch 'master' of github.com:ContainerSolutions/weaveDemo](https://api.github.com/repos/jaglade/microservices-demo/git/commits/99b463cdec447a3f50ad6d14174484cc2b1761b3) - @Ian Crosby
+- [Fixed server merge](https://api.github.com/repos/jaglade/microservices-demo/git/commits/bb57887e1b7952c70903c39fffd25032bb57a384) - @Ian Crosby
+- [Merge pull request #27 from ContainerSolutions/build/travis](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f5ecd01ae0fb1607e064c9a1d07c755d25e7834d) - @Phil Winder
+- [Testing build script.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/8125e8c7c4f0f8e282519718c17782d948b174d4) - @Phil Winder
+- [Testing build script.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/ca33daed54313d5d13bb107be3b9a96c46396fd3) - @Phil Winder
+- [Testing build script.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/623f4a6cb8b3ef292a85532b9927a2f46e6daa21) - @Phil Winder
+- [Testing build script.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3f4bfeb1fd4695b6c290d95c0d9fc72c5f1f2d2d) - @Phil Winder
+- [Testing build script.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b84d084619bd3ead0ed150a4846e19255a496c7b) - @Phil Winder
+- [Testing build script.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/0c0914eb435e0bdbcd03f2a652b3dbd1c1f7a58b) - @Phil Winder
+- [Testing build script.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/30270ca9c2dff0fa98dc68b8b1e6d731e148486e) - @Phil Winder
+- [Merge pull request #26 from ContainerSolutions/build/travis](https://api.github.com/repos/jaglade/microservices-demo/git/commits/ca0a2870232fc3084b710aef91533c3f5b43222d) - @Phil Winder
+- [Travis CI script.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c6585203dce39f45e6c7faef5ed8494a356464fa) - @Phil Winder
+- [Added find by username command.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3c52c58c62629cb71f9b9fa36ecf8ca793d4e2d1) - @Phil Winder
+- [adding cookies, customer lookup and fixed dev env var](https://api.github.com/repos/jaglade/microservices-demo/git/commits/85a0a3c3ef48586b1a1809cc0bf229eae1f49ebf) - @Ian Crosby
+- [Merge pull request #25 from ContainerSolutions/build/local](https://api.github.com/repos/jaglade/microservices-demo/git/commits/5a7bf6a84ff09e295a8d4dda444d619f5e53f3e6) - @Phil Winder
+- [Now build in seperate script. docker-compose only uses docker images. Does not build.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/a4f1dcee3e6a88140afd10ad42351de006c2a97d) - @Phil Winder
+- [removing dev env check](https://api.github.com/repos/jaglade/microservices-demo/git/commits/fc3f07e17c648b1f052ea7ffc35e706fb39ee3f8) - @idcrosby
+- [Merge pull request #24 from ContainerSolutions/db/moveToExternalDb](https://api.github.com/repos/jaglade/microservices-demo/git/commits/c8bdaf045784273ccc86ae457b98981a5f6bc38f) - @Phil Winder
+- [Updated examples](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7d1d06c7d213e4a10473255d5612ac9c8fdda2a2) - @Phil Winder
+- [Migrated all databases to external MongoDB instances.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/24b6eab80173fb6d508269917c21b3034c81517a) - @Phil Winder
+- [Add login to front end API, fixed status code](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b5de9303820ca47fc44ba114fc05e231deaa09f2) - @Ian Crosby
+- [remove ids from users file](https://api.github.com/repos/jaglade/microservices-demo/git/commits/4431abd22e7ec80edd4285772a21ae85f13f72e3) - @Ian Crosby
+- [Merge pull request #23 from ContainerSolutions/login-service](https://api.github.com/repos/jaglade/microservices-demo/git/commits/44106b0c7faa1d78ccc7fd7bf68786c951e067b3) - @idcrosby
+- [adding login to docker compose](https://api.github.com/repos/jaglade/microservices-demo/git/commits/e1aee97bc3c7f554b43d5c7c7a3670df4d5a5cc0) - @Ian Crosby
+- [Adding login service](https://api.github.com/repos/jaglade/microservices-demo/git/commits/54c9639f17739fd7592b1d0e4d466d29f7782f1f) - @Ian Crosby
+- [Added missing API calls to submit order](https://api.github.com/repos/jaglade/microservices-demo/git/commits/36770d90a178561baf438c47ff60d242e486f181) - @Ian Crosby
+- [Added note to pull and build separately.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/16933806f7425270865cd7e88e9d5b678a777078) - @Phil Winder
+- [Fixed hostnames and error logging](https://api.github.com/repos/jaglade/microservices-demo/git/commits/b518cea1c45367aa455c1dc3860ede3af2aab0ec) - @Ian Crosby
+- [handle errors, and removed DEV check because this seems to be set on the docker hosts somehow...](https://api.github.com/repos/jaglade/microservices-demo/git/commits/00166e78ef087ff30e619fbc0162ee6c3178da99) - @Ian Crosby
+- [Orders moved to mongo db. But I'm unsure if it's working or not.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/6ecedb205026c07e124e60aab03d4cca8d11a451) - @Phil Winder
+- [Merge branch 'master' of github.com:ContainerSolutions/weaveDemo](https://api.github.com/repos/jaglade/microservices-demo/git/commits/2bd149184d1c9f5c276b3818ab26320d70b08d92) - @Ian Crosby
+- [adding cart page, add to cart and buy functionality](https://api.github.com/repos/jaglade/microservices-demo/git/commits/afb85fdb58d4d9bd5106cacef8cdd2ff782214af) - @Ian Crosby
+- [Merge remote-tracking branch 'origin/master'](https://api.github.com/repos/jaglade/microservices-demo/git/commits/912819ba92fdae27cc8859e0902332fb6a6bfb1d) - @Phil Winder
+- [Changed shipping and payment ports to 80. Orders chain fully working.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/d6055ad3c0ff61894cabbfdfff65f6206f5b29b2) - @Phil Winder
+- [Added accounts, orders, customers, carts API to frontEnd server](https://api.github.com/repos/jaglade/microservices-demo/git/commits/f7dc8aa1165feacdad9cd2c2f681ce2a497c2965) - @Ian Crosby
+- [Fix scope install script dir.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/43f45780d2157d947719d9fce4bf29cc963e21a9) - @Phil Winder
+- [Added orders documentation](https://api.github.com/repos/jaglade/microservices-demo/git/commits/05cdfc4207fd864be6bd5643701ab5dc6d808192) - @Phil Winder
+- [Merge pull request #22 from ContainerSolutions/catalogue/port](https://api.github.com/repos/jaglade/microservices-demo/git/commits/29d6096206864f1d811a7cac329d3570fb9e3cf2) - @Phil Winder
+- [Changed catalogue port to 80](https://api.github.com/repos/jaglade/microservices-demo/git/commits/5e12616fc9440bc1bec5136a029d4b1041d8c894) - @Phil Winder
+- [Remove accidentally added build files.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/badfe3e38f0232e4e832faa833ac27af4be66122) - @Phil Winder
+- [Run install scripts from any directory.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/9a6b3d077471fd52002505f2b0c4a1487446e81a) - @Phil Winder
+- [Merge pull request #21 from ContainerSolutions/build/scripts](https://api.github.com/repos/jaglade/microservices-demo/git/commits/360c877badfc742e83ac53c3bd06dd070882c142) - @Phil Winder
+- [Merge pull request #20 from ContainerSolutions/build/java](https://api.github.com/repos/jaglade/microservices-demo/git/commits/595b2e8a4b52ee0e8d74740cbccdd4aa41078d03) - @Phil Winder
+- [Fix weave stop command.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/36f6bdf2244e988057a3661d51f735f319924e41) - @Phil Winder
+- [Rearrange router and plugin, so router starts first on master.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/4ff5b74dd63ba4437102e8ab5bb9ae6119c72294) - @Phil Winder
+- [Don't assume directory for installWeave.sh](https://api.github.com/repos/jaglade/microservices-demo/git/commits/88144b390ab8ddc51ef8fc7f97602955b741d1da) - @Phil Winder
+- [Add uninstall info.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/1851f5a57cf5d045fb494b1900aeedc05c74d856) - @Phil Winder
+- [Java service build speed enhancements.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/d8f45a133dede219a52235e8ebdc4863f90c976a) - @Phil Winder
+- [Merge branch 'master' of github.com:ContainerSolutions/weaveDemo](https://api.github.com/repos/jaglade/microservices-demo/git/commits/378506c9687c07e26bfe73a3d674ef2b3b6569ad) - @Ian Crosby
+- [fix dockerfile, add go get](https://api.github.com/repos/jaglade/microservices-demo/git/commits/caf46026daa0997587a0ec74a5351a8334740a77) - @Ian Crosby
+- [Merge pull request #19 from ContainerSolutions/compose/ports](https://api.github.com/repos/jaglade/microservices-demo/git/commits/7756312a48b207f160b872ace7aeb4222952c5e9) - @Phil Winder
+- [Merge pull request #18 from ContainerSolutions/accounts/api](https://api.github.com/repos/jaglade/microservices-demo/git/commits/801c7abf1bc426236825ed1814882ff898a0400f) - @Phil Winder
+- [Remove orphans.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/26e7c29d933cea4d8f0eafa816c1c1adf6aa9183) - @Phil Winder
+- [Fixed api to use plurals.](https://api.github.com/repos/jaglade/microservices-demo/git/commits/63441c7b7e0ba06d04f0e8ae440e5c023104840c) - @Phil Winder
+- [Merge pull request #17 from ContainerSolutions/accounts/api](https://api.github.com/repos/jaglade/microservices-demo/git/commits/3b96016e408a4e3c732e0dba6666ecb8707fd091) - @Phil Winder
